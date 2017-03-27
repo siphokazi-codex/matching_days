@@ -32,6 +32,11 @@
   color: #89253b;
 }
 
+.display {
+  margin-top: 20px;
+  padding-left: 10px;
+}
+
 .week label {
   margin-top: 70px;
   margin-left: 10%;
@@ -72,8 +77,16 @@ table{
   border-radius: 5px;
 }
 
+.display {
+  color: #016001;
+  margin-left: 40%;
+  margin-top: 90px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .daysTable {
-  padding-top: 180px;
+  padding-top: 120px;
 }
 
 .btnMatch {
