@@ -1,0 +1,94 @@
+.matching {
+  margin: auto;
+}
+
+  .week img {
+  margin-top: -7%;
+  margin-left: -2%;
+  width: 42%;
+  height: 80%;
+  float: left;
+  margin-right: 25px;
+}
+
+#first {
+  margin-top: 50px;
+}
+
+.txtFirst {
+  margin-left: 4.3%;
+}
+
+.txtSecond {
+  margin-left: 2%;
+}
+
+.week input {
+  width: 15%;
+  background-color: #f7efde;
+  border-radius: 5px;
+  height: 30px;
+  font-size: 17px;
+  color: #89253b;
+}
+
+.week label {
+  margin-top: 70px;
+  margin-left: 10%;
+  font-size: 30px;
+  color: #89253b;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
+
+table{
+  height: 80px;
+}
+
+.daysTable td {
+  border: 1px solid;
+  border-style: inset;
+  font-size: 20px;
+  font-weight: bold;
+  color: #89253b;
+  width: 13%;
+  transform: rotate(-45deg);
+}
+
+.days {
+  background-color: #f7efde;
+}
+
+.btnMatch {
+  background-color: #a52b46;
+  color: #f7efde;
+  width: 10%;
+  height: 7%;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.daysTable {
+  padding-top: 180px;
+}
+
+.btnMatch {
+  margin-left: 36.5%;
+  margin-top: 20px;
+}
+
+.greenDay {
+  background-color: #016001;
+}
+
+.blueDay {
+  background-color: #090c60;
+}
+
+.redDay {
+  background-color: #910a02;
+}
