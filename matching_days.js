@@ -21,7 +21,7 @@ refreshDays ();
 if (dayOne === dayTwo)
 {
   list[dayOne].className = 'greenDay';
-  ul.innerHTML = "The two selected dates, falls on the same week day, hence the week day is in green color";
+  ul.innerHTML = "The two selected dates, falls on the same week day, hence week day is in green color";
 }
 else if (dayOne !== dayTwo)
 {
