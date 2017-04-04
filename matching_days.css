@@ -17,10 +17,12 @@
 
 .txtFirst {
   margin-left: 4.3%;
+  border-color: #c92e48;
 }
 
 .txtSecond {
   margin-left: 2%;
+  border-color: #c92e48;
 }
 
 .week input {
@@ -34,7 +36,7 @@
 
 .display {
   margin-top: 20px;
-  padding-left: 10px;
+  padding-left: 0px;
 }
 
 .week label {
@@ -54,17 +56,19 @@ table{
 }
 
 .daysTable td {
-  border: 1px solid;
+  border: 5px solid;
   border-style: inset;
   font-size: 20px;
   font-weight: bold;
-  color: #89253b;
-  width: 13%;
+  border-color: #c92e48;
+  width: 14%;
   transform: rotate(-45deg);
+  border-radius: 15px;
 }
 
 .days {
   background-color: #f7efde;
+  margin-left: -10px;
 }
 
 .btnMatch {
@@ -95,13 +99,16 @@ table{
 }
 
 .greenDay {
-  background-color: #016001;
+  background-color: #2e8246;
+  color: #f9eee3;
 }
 
 .blueDay {
-  background-color: #090c60;
+  background-color: #313d84;
+  color: #f9eee3;
 }
 
 .redDay {
-  background-color: #910a02;
+  background-color: #c92e48;
+  color: #f9eee3;
 }
